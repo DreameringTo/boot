@@ -1,0 +1,2 @@
+# boot
+learn git
